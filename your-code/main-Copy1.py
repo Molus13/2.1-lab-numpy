@@ -123,7 +123,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "31eea38d",
+   "id": "3c85111b",
    "metadata": {},
    "source": [
     "4. Print \"a\""
@@ -132,7 +132,7 @@
   {
    "cell_type": "code",
    "execution_count": 21,
-   "id": "48a213c8",
+   "id": "32f63fc9",
    "metadata": {},
    "outputs": [
     {
@@ -155,7 +155,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "4a43a4db",
+   "id": "35b9089c",
    "metadata": {},
    "source": [
     "#5. Create a 5x2x3 3-dimensional array with all values equaling 1.\n",
@@ -233,7 +233,7 @@
   {
    "cell_type": "code",
    "execution_count": 39,
-   "id": "084b0776",
+   "id": "e680d3a6",
    "metadata": {},
    "outputs": [
     {
@@ -322,7 +322,7 @@
   {
    "cell_type": "code",
    "execution_count": 44,
-   "id": "d1c17e87",
+   "id": "1b8271d5",
    "metadata": {},
    "outputs": [
     {
@@ -345,7 +345,7 @@
   {
    "cell_type": "code",
    "execution_count": 47,
-   "id": "bb3e2274",
+   "id": "da9a9844",
    "metadata": {},
    "outputs": [
     {
@@ -364,7 +364,7 @@
   {
    "cell_type": "code",
    "execution_count": 71,
-   "id": "1c469e3c",
+   "id": "659142a7",
    "metadata": {},
    "outputs": [
     {
@@ -531,7 +531,7 @@
   {
    "cell_type": "code",
    "execution_count": 85,
-   "id": "6e922a70",
+   "id": "60fc4f2f",
    "metadata": {},
    "outputs": [
     {
@@ -551,7 +551,7 @@
   {
    "cell_type": "code",
    "execution_count": 86,
-   "id": "9a95b349",
+   "id": "d577f28a",
    "metadata": {},
    "outputs": [
     {
@@ -604,7 +604,7 @@
   {
    "cell_type": "code",
    "execution_count": 90,
-   "id": "e5920465",
+   "id": "e016d6a8",
    "metadata": {},
    "outputs": [
     {
